@@ -1,1 +1,1 @@
-## Web Application Assignmnet
+## Web Application Assignment
